@@ -1,0 +1,8 @@
+{
+	"posts":[
+		{"id": 1, "name": "Lakshya"},
+		{"id": 2, "name": "Aditya"}
+		{"id": 3, "name": "United"}
+	],
+	"random": 1
+}
