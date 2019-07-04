@@ -11,5 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "name": "Lakshya! Aaj Matlab Aaj!"
+  "author": {
+    "message": "Lakshya aaj matlab aaj!"
+  }
 }
